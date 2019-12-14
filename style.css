@@ -3,3 +3,15 @@
     height: 20vh;
     margin-top: 5vh;
 }
+.language-buttons{
+    margin-top: 5vh;
+}
+.language-buttons button{
+    background-color: #5b7778;
+}
+.validation-form{
+    margin-top: 10vh;
+}
+.validation-form .btn{
+    background-color: #5b7778;
+}
